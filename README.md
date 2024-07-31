@@ -1,6 +1,6 @@
 rospotrebnadzor - Санитарно-эпидемиологическая обстановка - Калужская обл. (rpn-seo-k)
 
-<img src="tick_bite_tracker/img/grfk1.png">
+<img src="tick_bite_tracker/img/grfk.png">
 
 Проект "Клещевые болезни в Калужской области: анализ данных и создание графика"
 
